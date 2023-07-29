@@ -1,4 +1,4 @@
-<img src= "/src/main/resources/images/4.png">table creation using Spring Jpa</img>
+<img src= "/src/main/resources/images/4.png" height= "300px" width="500px">table creation using Spring Jpa</img>
 <img src= "/src/main/resources/images/3.png">filling data using Spring Batch</img>
 <img src= "/src/main/resources/images/1.png">adding data using batch</img>
 <img src= "/src/main/resources/images/6.png">Searching actor by name</img>
