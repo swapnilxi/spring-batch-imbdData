@@ -66,7 +66,7 @@ public class ActorBatchConfig {
 
     @Bean
     public Step step1(JobRepository jobRepository,
-                      PlatformTransactionManager transactionManager, JdbcBatchItemWriter<Actor> writer) {
+                    PlatformTransactionManager transactionManager, JdbcBatchItemWriter<Actor> writer) {
         return new StepBuilder("step1", jobRepository)
                 .<Actor, Actor> chunk(10, transactionManager)
                 .reader(reader())

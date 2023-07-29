@@ -57,7 +57,7 @@ public class RelationBatchConfig {
     // tag::jobstep[]
     @Bean
     public Job importUserJob(JobRepository jobRepository,
-                             Step step1) {
+                            Step step1) {
         return new JobBuilder("importUserJob", jobRepository)
                 .incrementer(new RunIdIncrementer())
                 //.listener(listener)

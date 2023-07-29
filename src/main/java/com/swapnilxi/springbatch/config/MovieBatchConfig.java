@@ -57,7 +57,7 @@ public class MovieBatchConfig {
     // tag::jobstep[]
     @Bean
     public Job importUserJob(JobRepository jobRepository,
-                             Step step1) {
+                            Step step1) {
         return new JobBuilder("importUserJob", jobRepository)
                 .incrementer(new RunIdIncrementer())
                 //.listener(listener)
@@ -68,7 +68,7 @@ public class MovieBatchConfig {
 
     @Bean
     public Step step1(JobRepository jobRepository,
-                      PlatformTransactionManager transactionManager, JdbcBatchItemWriter<Movie> writer) {
+                    PlatformTransactionManager transactionManager, JdbcBatchItemWriter<Movie> writer) {
         return new StepBuilder("step1", jobRepository)
                 .<Movie, Movie> chunk(12, transactionManager)
                 .reader(reader())
