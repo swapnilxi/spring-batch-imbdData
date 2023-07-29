@@ -1,0 +1,238 @@
+tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMinutes	genres
+tt0000001	short	Carmencita	Carmencita	0	1894	\N	1	Documentary,Short
+tt0000002	short	Le clown et ses chiens	Le clown et ses chiens	0	1892	\N	5	Animation,Short
+tt0000003	short	Pauvre Pierrot	Pauvre Pierrot	0	1892	\N	4	Animation,Comedy,Romance
+tt0000004	short	Un bon bock	Un bon bock	0	1892	\N	12	Animation,Short
+tt0000005	short	Blacksmith Scene	Blacksmith Scene	0	1893	\N	1	Comedy,Short
+tt0000006	short	Chinese Opium Den	Chinese Opium Den	0	1894	\N	1	Short
+tt0000007	short	Corbett and Courtney Before the Kinetograph	Corbett and Courtney Before the Kinetograph	0	1894	\N	1	Short,Sport
+tt0000008	short	Edison Kinetoscopic Record of a Sneeze	Edison Kinetoscopic Record of a Sneeze	0	1894	\N	1	Documentary,Short
+tt0000009	movie	Miss Jerry	Miss Jerry	0	1894	\N	45	Romance
+tt0000010	short	Leaving the Factory	La sortie de l'usine Lumière à Lyon	0	1895	\N	1	Documentary,Short
+tt0000011	short	Akrobatisches Potpourri	Akrobatisches Potpourri	0	1895	\N	1	Documentary,Short
+tt0000012	short	The Arrival of a Train	L'arrivée d'un train à La Ciotat	0	1896	\N	1	Documentary,Short
+tt0000013	short	The Photographical Congress Arrives in Lyon	Le débarquement du congrès de photographie à Lyon	0	1895	\N	1	Documentary,Short
+tt0000014	short	The Waterer Watered	L'arroseur arrosé	0	1895	\N	1	Comedy,Short
+tt0000015	short	Autour d'une cabine	Autour d'une cabine	0	1894	\N	2	Animation,Short
+tt0000016	short	Boat Leaving the Port	Barque sortant du port	0	1895	\N	1	Documentary,Short
+tt0000017	short	Italienischer Bauerntanz	Italienischer Bauerntanz	0	1895	\N	1	Documentary,Short
+tt0000018	short	Das boxende Känguruh	Das boxende Känguruh	0	1895	\N	1	Short
+tt0000019	short	The Clown Barber	The Clown Barber	0	1898	\N	\N	Comedy,Short
+tt0000020	short	The Derby 1895	The Derby 1895	0	1895	\N	1	Documentary,Short,Sport
+tt0000022	short	Blacksmith Scene	Les forgerons	0	1895	\N	1	Documentary,Short
+tt0000023	short	The Sea	Baignade en mer	0	1895	\N	1	Documentary,Short
+tt0000024	short	Opening of the Kiel Canal	Opening of the Kiel Canal	0	1895	\N	\N	News,Short
+tt0000025	short	The Oxford and Cambridge University Boat Race	The Oxford and Cambridge University Boat Race	0	1896	\N	\N	News,Short,Sport
+tt0000026	short	The Messers. Lumière at Cards	Partie d'écarté	0	1896	\N	1	Documentary,Short
+tt0000027	short	Cordeliers' Square in Lyon	Place des Cordeliers à Lyon	0	1895	\N	1	Documentary,Short
+tt0000028	short	Fishing for Goldfish	La pêche aux poissons rouges	0	1895	\N	1	Documentary,Short
+tt0000029	short	Baby's Meal	Repas de bébé	0	1895	\N	1	Documentary,Short
+tt0000030	short	Rough Sea at Dover	Rough Sea at Dover	0	1895	\N	1	Documentary,Short
+tt0000031	short	Jumping the Blanket	Le saut à la couverture	0	1895	\N	1	Documentary,Short
+tt0000032	short	Die Serpentintänzerin	Die Serpentintänzerin	0	1895	\N	1	Short
+tt0000033	short	Horse Trick Riders	La voltige	0	1895	\N	1	Comedy,Documentary,Short
+tt0000034	short	Arrivée d'un train gare de Vincennes	Arrivée d'un train gare de Vincennes	0	1896	\N	1	Documentary,Short
+tt0000035	short	Watering the Flowers	L'arroseur	0	1896	\N	1	Comedy,Short
+tt0000036	short	Awakening of Rip	Awakening of Rip	0	1896	\N	0	Drama,Short
+tt0000037	short	Sea Bathing	Baignade en mer	0	1896	\N	1	Short
+tt0000038	short	The Ball Game	The Ball Game	0	1898	\N	\N	Documentary,Short,Sport
+tt0000039	short	Barnet Horse Fair	Barnet Horse Fair	0	1896	\N	\N	Short
+tt0000040	short	Barque sortant du port de Trouville	Barque sortant du port de Trouville	0	1896	\N	\N	Documentary,Short
+tt0000041	short	Bataille de neige	Bataille de neige	0	1897	\N	1	Comedy,Documentary,Short
+tt0000042	short	Bateau-mouche sur la Seine	Bateau-mouche sur la Seine	0	1896	\N	\N	Documentary,Short
+tt0000043	short	Batteuse à vapeur	Batteuse à vapeur	0	1896	\N	\N	Documentary,Short
+tt0000044	short	Le bivouac	Le bivouac	0	1896	\N	1	Short
+tt0001475	movie	Amor fatal	Amor fatal	0	1911	\N	\N	Drama,Romance
+tt0001476	short	Amor que mata	Amor que mata	0	1911	\N	34	Short
+tt0001477	short	The Amorous Doctor	The Amorous Doctor	0	1911	\N	2	Comedy,Short
+tt0001478	short	The Angel of Paradise Ranch	The Angel of Paradise Ranch	0	1911	\N	\N	Short,Western
+tt0001479	short	The Angel of the Slums	The Angel of the Slums	0	1911	\N	\N	Drama,Short
+tt0001480	short	Arizona Bill	Arizona Bill	0	1911	\N	\N	Short,Western
+tt0001481	short	Artful Kate	Artful Kate	0	1911	\N	10	Drama,Short
+tt0001482	short	As in a Looking Glass	As in a Looking Glass	0	1911	\N	30	Drama,Short
+tt0001483	short	At a Quarter of Two	At a Quarter of Two	0	1911	\N	\N	Drama,Short
+tt0001484	short	At the Break of Dawn	At the Break of Dawn	0	1911	\N	\N	Short,Western
+tt0001485	short	At the Duke's Command	At the Duke's Command	0	1911	\N	\N	Drama,Romance,Short
+tt0001486	short	At the Threshold of Life	At the Threshold of Life	0	1911	\N	\N	Drama,Short
+tt0001487	short	The Christian Martyrs	Aux lions les chrétiens	0	1911	\N	\N	Drama,Short
+tt0001488	short	The Hallucinations of Baron Munchausen	Les Hallucinations du baron de Münchhausen	0	1911	\N	11	Fantasy,Short
+tt0001489	short	The Awakening of John Bond	The Awakening of John Bond	0	1911	\N	\N	Drama,Short
+tt0001490	short	Back to the Primitive	Back to the Primitive	0	1911	\N	14	Short,Western
+
+tt0010740	movie	Stunts and Thrills	Stunts and Thrills	0	1919	\N	\N	Documentary
+tt0010741	short	Subbing for Tom Mix	Subbing for Tom Mix	0	1919	\N	\N	Animation,Comedy,Short
+tt0010742	movie	Such Is Life in Greenwich Village	Such Is Life in Greenwich Village	0	1919	\N	\N	Documentary
+tt0010743	movie	Sue of the South	Sue of the South	0	1919	\N	50	Drama
+tt0010744	short	Sundown	Sundown	0	1919	\N	\N	Documentary,Short
+tt0010745	movie	The Sundown Trail	The Sundown Trail	0	1919	\N	60	Western
+tt0010746	movie	Sunken Gardens and Hidden Cloisters	Sunken Gardens and Hidden Cloisters	0	1919	\N	\N	Documentary
+tt0010747	short	Sunnyside	Sunnyside	0	1919	\N	34	Comedy,Short
+tt0010748	short	Sunset Trail	Sunset Trail	0	1919	\N	\N	Documentary,Short
+tt0010749	short	Sunshine and Shadows	Sunshine and Shadows	0	1919	\N	\N	Documentary,Short
+tt0010751	short	Surrogatet	Surrogatet	0	1919	\N	33	Short
+tt0010752	short	Swat the Crook	Swat the Crook	0	1919	\N	10	Comedy,Short
+tt0010753	short	Sweet Papa	Sweet Papa	0	1919	\N	\N	Animation,Comedy,Short
+tt0010754	movie	Fairy of Solbakken	Synnöve Solbakken	0	1919	\N	111	Drama
+tt0010755	movie	Sången om den eldröda blomman	Sången om den eldröda blomman	0	1919	\N	145	Drama,Romance
+tt0010756	movie	Tangled Threads	Tangled Threads	0	1919	\N	50	Drama
+tt0010757	short	The Tantalizing Fly	The Tantalizing Fly	0	1919	\N	4	Animation,Comedy,Family
+tt0010758	movie	Tarazona	Tarazona	0	1919	\N	\N	Documentary
+tt0010759	movie	A Taste of Life	A Taste of Life	0	1919	\N	50	Comedy,Drama
+tt0010760	short	Teddy Birds	Teddy Birds	0	1919	\N	\N	Documentary,Short
+tt0010761	movie	The Teeth of the Tiger	The Teeth of the Tiger	0	1919	\N	60	Mystery
+tt0010762	movie	A Temperamental Wife	A Temperamental Wife	0	1919	\N	60	Comedy,Romance
+tt0010763	movie	Tennis: An Analysis of Motion	Tennis: An Analysis of Motion	0	1919	\N	\N	Documentary
+tt0010764	movie	Theodora	Teodora	0	1921	\N	\N	Drama
+tt0010765	movie	The Terror of the Range	The Terror of the Range	0	1919	\N	\N	Western
+tt0010766	movie	The Test of Honor	The Test of Honor	0	1919	\N	50	Drama
+tt0010767	movie	Die Teufelskirche	Die Teufelskirche	0	1919	\N	47	\N
+tt0010768	movie	Thieves	Thieves	0	1919	\N	50	Crime,Drama
+tt0010769	movie	Thin Ice	Thin Ice	0	1919	\N	50	Drama
+tt0010770	movie	The Third Degree	The Third Degree	0	1919	\N	50	Crime,Drama,Romance
+tt0010771	movie	The Third Kiss	The Third Kiss	0	1919	\N	50	Comedy,Drama
+tt0010772	movie	This Hero Stuff	This Hero Stuff	0	1919	\N	50	Comedy,Western
+tt0010773	movie	Thou Shalt Not	Thou Shalt Not	0	1919	\N	60	Drama
+tt0010774	movie	Three Green Eyes	Three Green Eyes	0	1919	\N	50	Comedy,Drama
+tt0010775	movie	Three Men and a Girl	Three Men and a Girl	0	1919	\N	50	Comedy,Romance
+tt0010776	movie	Through a Rubber Plant	Through a Rubber Plant	0	1919	\N	\N	Documentary
+tt0010777	movie	Through the Toils	Through the Toils	0	1919	\N	77	Drama
+tt0010778	movie	Through the Wrong Door	Through the Wrong Door	0	1919	\N	50	Comedy,Romance
+tt0010779	movie	The Thunderbolt	The Thunderbolt	0	1919	\N	60	Drama
+tt0010780	movie	Thunderbolts of Fate	Thunderbolts of Fate	0	1919	\N	50	Drama
+tt0010781	movie	The Tiger's Trail	The Tiger's Trail	0	1919	\N	300	Action,Adventure,Drama
+tt0010782	movie	Tin Pan Alley	Tin Pan Alley	0	1919	\N	50	Comedy,Drama,Music
+tt0010783	movie	To Him That Hath	To Him That Hath	0	1918	\N	50	Drama
+tt0010784	movie	Toby's Bow	Toby's Bow	0	1919	\N	50	Drama,Music,Romance
+tt0010785	movie	Die Tochter des Mehemed	Die Tochter des Mehemed	0	1919	\N	\N	Drama
+tt0010786	movie	Todd of the Times	Todd of the Times	0	1919	\N	50	Comedy
+tt0010787	movie	The Toilers	The Toilers	0	1919	\N	\N	Drama,Romance
+tt0010788	movie	Told in the Hills	Told in the Hills	0	1919	\N	60	Western
+tt0010789	short	Ein toller Schwiegersohn	Ein toller Schwiegersohn	0	1919	\N	\N	Comedy,Short
+tt0010790	short	Tom's Little Star	Tom's Little Star	0	1919	\N	20	Drama,Short
+tt0010791	movie	The Tong Man	The Tong Man	0	1919	\N	58	Crime,Drama
+tt0010792	movie	Too Many Crooks	Too Many Crooks	0	1919	\N	50	Comedy,Crime
+tt0010793	movie	The Dance of Death	Der Totentanz	0	1919	\N	84	Horror
+tt0010794	movie	Toton	Toton the Apache	0	1919	\N	60	Drama
+tt0010795	movie	The Trail of the Octopus	The Trail of the Octopus	0	1919	\N	300	Action,Mystery,Thriller
+tt0010796	movie	Trailing Game Birds	Trailing Game Birds	0	1919	\N	\N	Documentary
+tt0010797	movie	Training Eve	Training Eve	0	1919	\N	\N	Documentary
+tt0010798	movie	The Trap	The Trap	0	1919	\N	50	Drama,Romance
+tt0010799	short	Travail	Travail	0	1920	\N	35	Drama,Short
+tt0010800	movie	Treat 'Em Rough	Treat 'Em Rough	0	1919	\N	50	Western
+tt0010801	movie	Triangle Comedies	Triangle Comedies	0	1919	\N	\N	\N
+tt0010802	movie	A Trick of Fate	A Trick of Fate	0	1919	\N	50	Drama
+tt0010803	movie	A Trip Through the Strand	A Trip Through the Strand	0	1919	\N	\N	Documentary
+tt0010804	movie	Trixie from Broadway	Trixie from Broadway	0	1919	\N	50	Drama
+tt0010805	short	A Tropical Eggs-pedition	A Tropical Eggs-pedition	0	1919	\N	\N	Animation,Comedy,Short
+tt0010806	movie	True Heart Susie	True Heart Susie	0	1919	\N	87	Comedy,Drama,Romance
+tt0010807	movie	The Turn in the Road	The Turn in the Road	0	1919	\N	50	Drama
+tt0010808	movie	Turning the Tables	Turning the Tables	0	1919	\N	50	Comedy
+tt0010809	movie	Turns and Twists	Turns and Twists	0	1919	\N	\N	Documentary
+tt0010811	movie	The Two Brides	The Two Brides	0	1919	\N	50	Drama
+tt0010812	short	The Two Doyles	The Two Doyles	0	1919	\N	20	Short,Western
+tt0010813	movie	Typical Mexican Aspects	Typical Mexican Aspects	0	1919	\N	80	Documentary
+tt0010814	movie	Tänzerin Tod	Tänzerin Tod	0	1920	\N	\N	\N
+tt0010815	movie	Der Tänzer	Der Tänzer	0	1919	\N	81	Drama
+tt0010816	short	Uncle Tom Without a Cabin	Uncle Tom Without a Cabin	0	1919	\N	20	Comedy,Short
+tt0010817	movie	Under Suspicion	Under Suspicion	0	1919	\N	50	Comedy,Crime
+tt0010818	movie	Under the Top	Under the Top	0	1919	\N	50	Comedy
+tt0010819	movie	The Undercurrent	The Undercurrent	0	1919	\N	60	Drama
+tt0010820	movie	En ung mans väg	En ung mans väg	0	1919	\N	\N	\N
+tt0010821	movie	Eerie Tales	Unheimliche Geschichten	0	1919	\N	112	Fantasy,Horror,Mystery
+tt0010822	movie	Unknown Love	Unknown Love	0	1919	\N	60	Drama,War
+tt0010823	movie	The Unknown Quantity	The Unknown Quantity	0	1919	\N	50	Drama
+tt0010824	movie	The Unpainted Woman	The Unpainted Woman	0	1919	\N	60	Drama
+tt0010825	movie	The Unpardonable Sin	The Unpardonable Sin	0	1919	\N	90	Drama,War
+tt0010826	movie	Unto the End	Unto the End	0	1917	\N	\N	Drama
+tt0010827	movie	The Unwritten Code	The Unwritten Code	0	1918	\N	50	Drama
+tt0010828	short	Up in the Air After Alligators	Up in the Air After Alligators	0	1919	\N	\N	Documentary,Short
+tt0010829	short	The Uphill Climb	The Uphill Climb	0	1919	\N	24	Short,Western
+tt0010830	movie	The Uplifters	The Uplifters	0	1919	\N	50	Comedy,Romance
+tt0010831	movie	Upstairs	Upstairs	0	1919	\N	50	Comedy
+tt0010832	movie	Upstairs and Down	Upstairs and Down	0	1919	\N	50	Comedy
+tt0010833	movie	The Usurper	The Usurper	0	1919	\N	50	Drama
+tt0010834	movie	Vagabond Luck	Vagabond Luck	0	1919	\N	50	Comedy,Drama
+tt0010835	movie	The Valley of the Giants	The Valley of the Giants	0	1919	\N	50	Drama,Romance
+tt0010836	short	Vamps and Variety	Vamps and Variety	0	1919	\N	\N	Comedy,Short
+tt0010837	movie	The Veiled Adventure	The Veiled Adventure	0	1919	\N	50	Comedy,Romance
+tt0010838	short	Vengeance and the Girl	Vengeance and the Girl	0	1919	\N	20	Short,Western
+tt0010839	movie	The Vengeance of Durand	The Vengeance of Durand	0	1919	\N	60	Drama
+tt0010840	movie	Venus in the East	Venus in the East	0	1919	\N	50	Comedy,Drama
+tt0010841	movie	Die Verführten	Die Verführten	0	1919	\N	93	Crime,Drama
+tt0010842	movie	A Very Good Young Man	A Very Good Young Man	0	1919	\N	50	Comedy
+tt0010843	movie	The Woman Next Door	The Woman Next Door	0	1919	\N	50	Drama
+tt0010844	movie	Victory	Victory	0	1919	\N	62	Drama,Romance
+tt0010845	movie	Vida Nova	Vida Nova	0	1918	\N	131	\N
+tt0010846	movie	Virtuous Men	Virtuous Men	0	1919	\N	\N	Drama
+tt0010847	movie	Virtuous Sinners	Virtuous Sinners	0	1919	\N	50	Drama
+tt0010848	movie	The Virtuous Thief	The Virtuous Thief	0	1919	\N	50	Drama
+tt0010849	movie	A Virtuous Vamp	A Virtuous Vamp	0	1919	\N	50	Comedy,Romance
+tt0010850	movie	A Visit to St. Michel, France	A Visit to St. Michel, France	0	1919	\N	\N	Documentary
+tt0010851	movie	The Volcano	The Volcano	0	1919	\N	\N	Drama
+tt0010852	short	Væddeløberen	Væddeløberen	0	1919	\N	15	Comedy,Short
+tt0010853	movie	Wagon Tracks	Wagon Tracks	0	1919	\N	70	Adventure,Mystery,Western
+tt0010854	movie	Wahnsinn	Wahnsinn	0	1919	\N	70	Horror
+tt0010855	short	Wanted - $5, 000	Wanted - $5,000	0	1919	\N	10	Comedy,Short
+tt0010856	movie	Wanted: A Husband	Wanted: A Husband	0	1919	\N	50	Comedy
+tt0010857	short	War Spruce	War Spruce	0	1919	\N	\N	Documentary,Short
+tt0010858	short	A Wasmanipae Week-End	A Wasmanipae Week-End	0	1919	\N	\N	Documentary,Short
+tt0010859	movie	A Tale of Two Worlds	A Tale of Two Worlds	0	1921	\N	70	Drama
+tt0010860	movie	The Way of a Man with a Maid	The Way of a Man with a Maid	0	1918	\N	50	Comedy
+tt0010861	movie	The Way of a Woman	The Way of a Woman	0	1919	\N	60	Drama
+tt0010862	movie	The Way of the Strong	The Way of the Strong	0	1919	\N	50	Drama
+tt0010863	movie	The Weaker Vessel	The Weaker Vessel	0	1919	\N	60	Comedy,Drama
+tt0010864	movie	The Web of Chance	The Web of Chance	0	1919	\N	50	Comedy
+tt0010865	short	Well, I'll Be	Well, I'll Be	0	1919	\N	\N	Comedy,Short,Western
+tt0010866	short	West Is East	West Is East	0	1919	\N	\N	Animation,Comedy,Short
+tt0010867	movie	The Westerners	The Westerners	0	1919	\N	70	Western
+tt0010868	movie	What Am I Bid?	What Am I Bid?	0	1919	\N	60	Drama,Romance
+tt0010869	movie	What Every Woman Learns	What Every Woman Learns	0	1919	\N	50	Drama
+tt0010870	movie	What Love Forgives	What Love Forgives	0	1919	\N	50	Drama
+tt0010871	movie	When Bearcat Went Dry	When Bearcat Went Dry	0	1919	\N	57	Drama
+tt0010872	movie	When Doctors Disagree	When Doctors Disagree	0	1919	\N	50	Comedy
+tt0010873	movie	When Fate Decides	When Fate Decides	0	1919	\N	50	Drama
+tt0010874	short	When Knights Were Cold	When Knights Were Cold	0	1923	\N	20	Comedy,Short
+tt0010875	short	When Love Is Blind	When Love Is Blind	0	1919	\N	20	Comedy,Short
+tt0010876	movie	When Men Desire	When Men Desire	0	1919	\N	50	Adventure,Drama,Romance
+tt0010877	short	When Pals Fall Out	When Pals Fall Out	0	1919	\N	13	Short,Western
+tt0010878	movie	When a Girl Loves	When a Girl Loves	0	1919	\N	60	Western
+tt0010879	movie	When the Clouds Roll by	When the Clouds Roll By	0	1919	\N	85	Action,Comedy,Romance
+tt0010880	short	Where the Screen Tree Grows	Where the Screen Tree Grows	0	1919	\N	\N	Documentary,Short
+tt0010881	movie	Where the West Begins	Where the West Begins	0	1919	\N	50	Comedy,Western
+tt0010882	movie	The White Heather	The White Heather	0	1919	\N	60	Drama
+tt0010883	movie	Who Cares?	Who Cares?	0	1919	\N	50	Comedy,Drama,Romance
+tt0010884	movie	Who Will Marry Me?	Who Will Marry Me?	0	1919	\N	50	Drama
+tt0010885	movie	Who's Your Brother?	Who's Your Brother?	0	1919	\N	\N	Drama
+tt0010886	movie	Whom the Gods Would Destroy	Whom the Gods Would Destroy	0	1919	\N	70	Drama
+tt0010887	short	Why Divorce?	Why Divorce?	0	1919	\N	\N	Comedy,Short
+tt0010888	short	Why Mutt Left the Village	Why Mutt Left the Village	0	1919	\N	\N	Animation,Comedy,Short
+tt0010889	movie	Why Smith Left Home	Why Smith Left Home	0	1919	\N	50	Comedy
+tt0010890	movie	The Wicked Darling	The Wicked Darling	0	1919	\N	59	Crime,Drama
+tt0010891	movie	Widow by Proxy	Widow by Proxy	0	1919	\N	50	Comedy,Romance
+tt0010892	movie	A Wild Goose Chase	A Wild Goose Chase	0	1919	\N	50	Adventure
+tt0010893	short	Wild Waves and Angry Woman	Wild Waves and Angry Woman	0	1919	\N	\N	Animation,Comedy,Short
+tt0010894	short	The Wild Westerner	The Wild Westerner	0	1919	\N	\N	Short,Western
+tt0010895	movie	The Wilderness Trail	The Wilderness Trail	0	1919	\N	50	Western
+tt0010896	movie	Will o' the Wisp	Will o' the Wisp	0	1919	\N	\N	\N
+tt0010897	short	William Hohenzollern Sausage Maker	William Hohenzollern Sausage Maker	0	1919	\N	\N	Animation,Comedy,Short
+tt0010898	movie	The Winchester Woman	The Winchester Woman	0	1919	\N	50	Crime,Drama
+tt0010899	short	The Window Cleaners	The Window Cleaners	0	1919	\N	\N	Animation,Comedy,Short
+tt0010900	movie	Wings of the Morning	Wings of the Morning	0	1919	\N	60	Adventure,Drama,Romance
+tt0010901	movie	The Winning Girl	The Winning Girl	0	1919	\N	50	Comedy,Drama
+tt0010902	movie	The Winning Stroke	The Winning Stroke	0	1919	\N	50	Action,Drama,Romance
+tt0010903	movie	The Wishing Ring Man	The Wishing Ring Man	0	1919	\N	50	Drama
+tt0010904	movie	With Hoops of Steel	With Hoops of Steel	0	1918	\N	\N	Western
+tt0010905	movie	The Witness for the Defense	The Witness for the Defense	0	1919	\N	50	Crime,Drama
+tt0010906	short	The Wolf of the Tetons	The Wolf of the Tetons	0	1919	\N	\N	Documentary,Short
+tt0010907	movie	The Wolf	The Wolf	0	1919	\N	60	Drama
+tt0010908	movie	Wolkenbau und Flimmerstern	Wolkenbau und Flimmerstern	0	1919	\N	\N	\N
+tt0010909	movie	Wolves of the Night	Wolves of the Night	0	1919	\N	50	Drama
+tt0010910	movie	The Woman Michael Married	The Woman Michael Married	0	1919	\N	50	Drama
+tt0010912	movie	A Woman There Was	A Woman There Was	0	1919	\N	50	Drama,Romance
+tt0010913	movie	The Woman Thou Gavest Me	The Woman Thou Gavest Me	0	1919	\N	60	Drama
+tt0010914	movie	The Woman Under Cover	The Woman Under Cover	0	1919	\N	60	Drama
+tt0010915	movie	The Woman Under Oath	The Woman Under Oath	0	1919	\N	61	Mystery
+tt0010916	movie	A Woman of Pleasure	A Woman of Pleasure	0	1919	\N	70	Adventure,Drama
+tt0010917	movie	The Woods of Paris	The Woods of Paris	0	1919	\N	\N	Documentary
+tt0010918	movie	Words and Music by -	Words and Music by -	0	1919	\N	50	Drama
+tt0010919	movie	The World Aflame	The World Aflame	0	1919	\N	
