@@ -1,1 +1,9 @@
-<img src= "/src/main/resources/images/1.png">1</img>
+<img src= "/src/main/resources/images/1.png">adding data using batch</img>
+<img src= "/src/main/resources/images/1.png">2</img>
+<img src= "/src/main/resources/images/3.png">3</img>
+<img src= "/src/main/resources/images/4.png">4</img>
+<img src= "/src/main/resources/images/5.png">5</img>
+<img src= "/src/main/resources/images/6.png">6</img>
+<img src= "/src/main/resources/images/7.png">7</img>
+<img src= "/src/main/resources/images/8.png">8</img>
+<img src= "/src/main/resources/images/9.png">9</img>
