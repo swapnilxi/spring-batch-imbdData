@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
-import com.swapnilxi.springbatch.Entity.Movie;
+import com.swapnilxi.springbatch.entity.Movie;
 
 import java.util.List;
 

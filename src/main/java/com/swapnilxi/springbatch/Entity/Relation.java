@@ -1,4 +1,4 @@
-package com.swapnilxi.springbatch.Entity;
+package com.swapnilxi.springbatch.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

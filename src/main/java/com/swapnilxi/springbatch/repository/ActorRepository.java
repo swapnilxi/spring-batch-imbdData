@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
-import com.swapnilxi.springbatch.Entity.Actor;
+import com.swapnilxi.springbatch.entity.Actor;
 
 import java.util.List;
 @Repository
